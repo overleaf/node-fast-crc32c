@@ -1,4 +1,7 @@
 .*
+!.yarnrc.yml
+!.gitignore
 *.log
 coverage
 node_modules
+.yarn/install-state.gz
